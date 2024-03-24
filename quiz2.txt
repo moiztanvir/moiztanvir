@@ -1,0 +1,24 @@
+a5380ee
+1. Conditional Statement
+2. Loops
+3. Pointers
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. What is the output of the following code: cout << "Object Oriented Programming" ;
+option a: OOP
+option b: Object
+option c: Object Oriented Programming
+option d: None of the above
+dabfac4
+c
+b94d27b
+2. A class can have more than one data members
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain the classes in C++
+dabfac4

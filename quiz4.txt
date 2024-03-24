@@ -1,0 +1,24 @@
+a5380ee
+1. Data
+2. Trees
+3. Structures
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. Which of the following is a linear data structure?
+option a: Array
+option b: AVL Trees
+option c: Binary Trees
+option d: Graphs
+dabfac4
+a
+b94d27b
+2. A circular queue is a type of queue.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain Binary Trees.
+dabfac4

@@ -1,0 +1,24 @@
+a5380ee
+1. Continuous Image
+2. Digitalization
+3. Masking
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. At what points, a continuous image is digitized?
+option a: Sampling
+option b: Vertex
+option c: Contour
+option d: Random
+dabfac4
+a
+b94d27b
+2. Computerized Axial Tomography is full form of CAT.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain the process of Masking?
+dabfac4

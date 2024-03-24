@@ -1,0 +1,33 @@
+Name : Teacher 1
+ID : teacher_1@nu.edu.pk
+Password : 0A324B$
+Name : Teacher 2
+ID : teacher_2@nu.edu.pk
+Password : 1B324C$
+Name : Teacher 3
+ID : teacher_3@nu.edu.pk
+Password : 2C324D$
+Name : Teacher 4
+ID : teacher_4@nu.edu.pk
+Password : 3D324E$
+Name : Teacher 5
+ID : teacher_5@nu.edu.pk
+Password : 4E324F$
+Name : Teacher 6
+ID : teacher_6@nu.edu.pk
+Password : 5F324G$
+Name : Teacher 7
+ID : teacher_7@nu.edu.pk
+Password : 6G324H$
+Name : Teacher 8
+ID : teacher_8@nu.edu.pk
+Password : 7H324I$
+Name : Teacher 9
+ID : teacher_9@nu.edu.pk
+Password : 8I324J$
+Name : Teacher 10
+ID : teacher_10@nu.edu.pk
+Password : 9J324K$
+Name : Teacher 11
+ID : teacher_11@nu.edu.pk
+Password : 0K324L$

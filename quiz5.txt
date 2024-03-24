@@ -1,0 +1,24 @@
+a5380ee
+1. Greedy Algorithm
+2. AVL Trees
+3. Divide and Conquer Algorithm
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. Which of the following is used to solve N queens problem?
+option a: Greedy Algorithm
+option b: Dynamic programming
+option c: Backtracking
+option d: Sorting
+dabfac4
+c
+b94d27b
+2. AVL Trees are a type of self-balancing Binary Search Trees.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain Divide and Conquer Algorithm.
+dabfac4

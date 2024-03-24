@@ -1,0 +1,24 @@
+a5380ee
+1. AI
+2. ML
+3. Deep Learning
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. 2 .Who is father of deep learning?
+option a: Ilya Sutskever
+option b: David Rumelhart
+option c: Alex Krizhevsky
+option d: Frank Rosenblatt
+dabfac4
+d
+b94d27b
+2. There are 3 layers of Deep learning algorithm constructed.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain Machine learning?
+dabfac4

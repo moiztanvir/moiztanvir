@@ -1,0 +1,24 @@
+a5380ee
+1. Research Hypothesis
+2. Errors
+3. Tippit Table
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. What is the name of the conceptual framework in which the research is carried out?
+option a: Research hypothesis
+option b: Synopsis of Research
+option c: Research paradigm
+option d: Research design
+dabfac4
+d
+b94d27b
+2. Tippit table refers to as Table of random digits.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. What are the conditions in which Type-I error occurs?
+dabfac4

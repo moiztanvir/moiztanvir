@@ -1,0 +1,24 @@
+a5380ee
+1. AI
+2. ML
+3. Data Analytics
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. The Father of Artificial Inteligence is:
+option a: Alan Turning
+option b: Charles Babbage
+option c: John McCarthy
+option d: None
+dabfac4
+c
+b94d27b
+2. AI is classified in 2 category processes.
+option a: True
+option b: False
+dabfac4
+b
+88f7ace
+3. Explain Machine learning?
+dabfac4

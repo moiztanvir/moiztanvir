@@ -1,0 +1,24 @@
+a5380ee
+1. Requirement
+2. Usability
+3. System Document
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. Which of the following is correct for the types of requirements?
+option a: Reliability
+option b: Availability
+option c: Usability
+option d: All of the above
+dabfac4
+d
+b94d27b
+2. Availability is the developer-specific requirement.
+option a: True
+option b: False
+dabfac4
+b
+88f7ace
+3.  What are the system requirement of the documents?
+dabfac4

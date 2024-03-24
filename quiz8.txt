@@ -1,0 +1,24 @@
+a5380ee
+1. Data Analytics
+2. Big Data
+3. Data Handling
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. Data in ___ bytes size is called big data.
+option a: Meta
+option b: Giga
+option c: Tera
+option d: Peta
+dabfac4
+d
+b94d27b
+2. Apache PyTorch is incorrect big data technology.
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain all forms of big data?
+dabfac4

@@ -1,0 +1,24 @@
+a5380ee
+1. Conditional Statement
+2. Loops
+3. Pointers
+1. MCQ's Questions
+2. True/False Questions
+3. Descriptive Questions
+2efcde9
+1. What is the output of the following code: cout << "Hello World" ;
+option a: Hello
+option b: World
+option c: Hello World
+option d: None of the above
+dabfac4
+c
+b94d27b
+2. switch statement depends on condition in case
+option a: True
+option b: False
+dabfac4
+a
+88f7ace
+3. Explain the use of if statement in c++ programming.
+dabfac4
