@@ -8,6 +8,10 @@ I am currently in my 4th semester of the Data Science program, where I have been
 - Python programming
 - Data Structures and Algorithms
 - Big Data analytics
+- Apache Hadoop
+- Apache Kafka
+- Apache Spark
+- MongoDB
 - Data visualization
 - My SQL
 - NodeJS
