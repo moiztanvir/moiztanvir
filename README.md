@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moiz Tanvir</h1>
-<h3 align="center">A passionate Data Scientist from Ialamabad, Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist from Islamabad, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiztanvir&label=Profile%20views&color=0e75b6&style=flat" alt="moiztanvir" /> </p>
 
