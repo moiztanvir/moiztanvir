@@ -13,7 +13,6 @@
 
 - 📄 Checkout my latest Visualization Chatbot Project [https://mordred613.pythonanywhere.com/login](https://mordred613.pythonanywhere.com/login)
 
-- ⚡ Qoute of the Day **Those who do not remember the past are condemned to repeat it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
