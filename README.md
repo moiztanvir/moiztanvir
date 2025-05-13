@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moiz Tanvir</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiztanvir&label=Profile%20views&color=0e75b6&style=flat" alt="moiztanvir" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Checkout my latest Visualization Chatbot Project [https://mordred613.pythonanywhere.com/login](https://mordred613.pythonanywhere.com/login)
 
-- ⚡ Fun fact **I love to sleep and making fake scenarios**
+- ⚡ Fun fact **I am a great fan of Roman Emperors and Philosophers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
