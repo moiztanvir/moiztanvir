@@ -11,8 +11,9 @@
 
 - 📫 How to reach me **moiztanvir26@gmail.com**
 
-- 📄 Checkout my latest Visualization Chatbot Project [https://mordred613.pythonanywhere.com/login](https://mordred613.pythonanywhere.com/login)
+- 📄 To Checkout my Visualization Chatbot Project!! [Click Here](https://mordred613.pythonanywhere.com/login)
 
+- 📄 To Checkout my Traffic Detection Management Project!! [Click Here](https://traffic-management-detection-system-baqubnezvrzkiymhemdy9f.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
