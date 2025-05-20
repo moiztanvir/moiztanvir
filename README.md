@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/moiztanvir?tab=repositories](https://github.com/moiztanvir?tab=repositories)
 
-- 💬 Ask me about **Data Science, AI, etc**
+- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Neural Networks, etc**
 
 - 📫 How to reach me **moiztanvir26@gmail.com**
 
