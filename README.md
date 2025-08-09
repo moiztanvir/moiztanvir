@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiztanvir&label=Profile%20views&color=0e75b6&style=flat" alt="moiztanvir" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, Large Language Models and Neural Networks**
+- 🌱 I’m currently learning **Generative AI, Large Language Models and Multi Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moiztanvir?tab=repositories](https://github.com/moiztanvir?tab=repositories)
 
