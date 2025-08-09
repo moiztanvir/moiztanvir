@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moiz Tanvir</h1>
-<h3 align="center">A Passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist and AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiztanvir&label=Profile%20views&color=0e75b6&style=flat" alt="moiztanvir" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/moiztanvir?tab=repositories](https://github.com/moiztanvir?tab=repositories)
 
-- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, etc**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Generative AI, Agentic AI, LLMs, DevOps, etc**
 
 - 📫 How to reach me **moiztanvir26@gmail.com**
 
